@@ -1,5 +1,4 @@
 # NekosBot
-[BROKEN]
  A discord Bot used to post Reddit or Lewd images
 
 default Prefix "?"
