@@ -179,5 +179,8 @@ async def get_Reddit(ctx, *args):
 	else:
 	    return await ctx.message.channel.send("I'm sorry, this is a NSFW function. Please enter a NSFW channel to view this.")
 
+@bot.command(aliases=['h'])
+async def help_com(ctx, *args):
+    return await ctx.message.channel.send("https://cdn.discordapp.com/attachments/696020372939866177/751736447979225158/helpimage.png")
 
 bot.run(config['Token'])
