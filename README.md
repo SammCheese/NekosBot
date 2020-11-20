@@ -13,4 +13,6 @@ default Prefix "?"
 
 ?e926 (alias: e9) tags PID - There is no limit on tags, if no PID is supplied it selects a random page between 1 & 50. [CURRENTLY BROKEN]
 
-?help - Shows a help message
+?h - Shows this help image
+
+![Help Image](https://media.discordapp.net/attachments/696020372939866177/751736447979225158/helpimage.png)
